@@ -1,3 +1,5 @@
+![CI](https://github.com/stabrea/cryptoguard/actions/workflows/ci.yml/badge.svg)
+
 # CryptoGuard
 
 A cryptographic security toolkit providing file encryption, hashing utilities, password strength analysis, secure password generation, and encryption key management.
