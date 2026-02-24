@@ -49,7 +49,7 @@ A cryptographic security toolkit providing file encryption, hashing utilities, p
 
 ```bash
 # Clone the repository
-git clone https://github.com/taofikbishi/cryptoguard.git
+git clone https://github.com/stabrea/cryptoguard.git
 cd cryptoguard
 
 # Create a virtual environment
